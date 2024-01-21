@@ -1,0 +1,10 @@
+org/metadata/integration/repository/AccessControlRepository.class
+org/metadata/integration/UnifiedMediaApplication.class
+org/metadata/integration/controller/MediaController.class
+org/metadata/integration/service/MediaService.class
+org/metadata/integration/repository/CrewRepository.class
+org/metadata/integration/Main.class
+org/metadata/integration/repository/MetadataRepository.class
+org/metadata/integration/model/Metadata.class
+org/metadata/integration/model/AccessControl.class
+org/metadata/integration/model/Crew.class
